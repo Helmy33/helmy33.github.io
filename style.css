@@ -1,0 +1,39 @@
+
+  .border-dotted {
+    border-style: dotted !important;
+}
+    .bookmark-text {
+      font-size: 1.5rem;
+      font-weight: bold;
+      background: linear-gradient(to right, #0f9d58, #cddc39);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display: inline-block;
+    }
+    .bookmark-icon-start {
+      color: #0f9d58; 
+      font-size: 1.5rem;
+      margin-right: 0.5rem;
+    }
+    .bookmark-icon-end {
+      color: #cddc39; 
+      font-size: 1.5rem;
+      margin-left: 0.5rem;
+    }
+    .highlighted-text {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 4rem;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+.btn1{
+    background-color: orange;
+    color: white;
+    border: none;
+}
+.btn1:hover{
+    background-color: orangered;
+    color: white;
+}
